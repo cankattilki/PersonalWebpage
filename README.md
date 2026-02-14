@@ -20,12 +20,13 @@ If you are not familiar with JSON, use this quick guide:
 
 ## Quick Start
 
-1. Fork this repo and rename it as `<your_Github_name>.github.io`.
+1. Fork this repo and rename it as `<your_Github_username>.github.io`.
 2. Update `site-data.json` either from GitHub directly or in your local.
 3. If you work on local, run your website locally by running this in your command line:
    - `python -m http.server 8000`
    - open `http://localhost:8000`
 4. Commit and Push to GitHub (`master` branch in this repo).
+5. Publish it by navigating to Settings -> Pages -> Publish site
 
 ## What You Can Edit in `site-data.json`
 
@@ -171,4 +172,4 @@ The page can auto-read common fields (title, authors, venue/status, year).
 This repo is configured to publish from `master`.
 After push, your site updates at:
 
-- `https://<username>.github.io/`
+- `https://<your_Github_username>.github.io/`
