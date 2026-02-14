@@ -20,7 +20,7 @@ If you are not familiar with JSON, use this quick guide:
 
 ## Quick Start
 
-1. Fork this repo.
+1. Fork this repo and rename it as `<your_Github_name>.github.io`.
 2. Update `site-data.json` either from GitHub directly or in your local.
 3. If you work on local, run your website locally by running this in your command line:
    - `python -m http.server 8000`
