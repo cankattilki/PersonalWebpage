@@ -1,4 +1,4 @@
-# Personal Academic Website (JSON-Driven)
+# Personal Academic Website
 
 Welcome, and thanks for visiting this repository.
 This site is designed to be personalized by editing **one file**: `site-data.json`.
