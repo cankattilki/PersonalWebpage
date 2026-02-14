@@ -64,21 +64,14 @@
     ],
     "preprints": [
       {
-        "title": "Local-Global Compatibility in the Langlands Program",
-        "authors": "with R. Taylor",
-        "status": "Submitted to Duke Mathematical Journal, 2024",
-        "bibtex": [
-          "@unpublished{tilki2024localglobal,",
-          "  title={Local-Global Compatibility in the Langlands Program},",
-          "  author={Tilki, Cankat and Taylor, R.},",
-          "  note={Submitted to Duke Mathematical Journal},",
-          "  year={2024}",
-          "}"
-        ],
+        "title": "",
+        "authors": "",
+        "status": "",
+        "bibtex": [],
         "links": [
           {
-            "label": "arXiv:2401.12345",
-            "url": "#"
+            "label": "",
+            "url": ""
           }
         ]
       }
